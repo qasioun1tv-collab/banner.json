@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1001,
+    "title": "إعلان البانر 1",
+    "videoUrl": "https://es.egys.gs/movie/abdoyasser112/01032783778/392472.m3u8",
+    "imageUrl": "https://fake-api.com/images/banner/ad_image_1.jpg"
+  },
+  {
+    "id": 1002,
+    "title": "إعلان البانر 2",
+    "videoUrl": "https://es.egys.gs/movie/abdoyasser112/01032783778/736437.m3u8",
+    "imageUrl": "https://fake-api.com/images/banner/ad_image_2.jpg"
+  },
+  {
+    "id": 1003,
+    "title": "إعلان البانر 3",
+    "videoUrl": "https://example.com/stream/ad_3.m3u8",
+    "imageUrl": "https://fake-api.com/images/banner/ad_image_3.jpg"
+  }
+]
